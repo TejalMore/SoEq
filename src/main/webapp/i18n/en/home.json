@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Welcome, {{username}}",
+    "subtitle": "This is your homepage",
+    "logged": {
+      "message": "You are logged in as user \"{{username}}\"."
+    },
+    "question": "Please select what you would like to do, to ask questions :",
+    "link": {
+      "store": "Go to store",
+      "doctor": "See the doctor",
+      "bugtracker": "NHipster bug tracker",
+      "chat": "NHipster public chat room",
+      "follow": "follow @jhipster on Twitter"
+    },
+    "like": "If you like SoEq, don't forget to give us a star on",
+    "github": "GitHub"
+  }
+}
